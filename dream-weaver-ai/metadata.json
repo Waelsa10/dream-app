@@ -1,0 +1,7 @@
+{
+  "name": "Dream Weaver AI",
+  "description": "A multi-modal dream journal that transcribes your spoken dreams, generates surrealist art from their themes, provides psychological interpretations, and allows you to chat about the symbols within.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
